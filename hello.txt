@@ -1,5 +1,6 @@
 Hello Bready!
 222
+<<<<<<< HEAD
 333 master test
-hot
-
+hot hot-fix test
+>>>>>>> hot-fix
